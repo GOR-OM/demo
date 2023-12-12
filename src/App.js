@@ -3,7 +3,6 @@ import {
   
 } from '@chakra-ui/react';
 import { ColorModeSwitcher } from './ColorModeSwitcher';
-import { Logo } from './Logo';
 import { BrowserRouter as Router,Routes,Route } from 'react-router-dom';
 import Home from './Component/Home';
 function App() {
